@@ -23,5 +23,4 @@ $li.each(function () {
   } else {
     $aboveUl.append($(this));
   }
-
 });
